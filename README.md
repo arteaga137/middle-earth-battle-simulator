@@ -1,4 +1,4 @@
-**Assignment 2**
+# Assignment 2
 
 **Middle Earth Battle Simulator 🏹🔥**
 
