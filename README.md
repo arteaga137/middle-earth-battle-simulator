@@ -2,7 +2,7 @@
 
 **Middle Earth Battle Simulator 🏹🔥**
 
-Welcome to the Middle Earth Battle Simulator repository. This code aims to simulate the outcomes of a hypothetical battle between the forces of Gondor and Saruman's dark army.
+This code aims to simulate the outcomes of a hypothetical battle between the forces of Gondor and Saruman's dark army.
 
 **Overview 📖**
 
